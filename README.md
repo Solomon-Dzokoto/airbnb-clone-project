@@ -103,6 +103,113 @@ Understanding the design properties of a Figma mockup—like color palette and t
 
 Design isn't just how it looks — it's how it works. Identifying these specs early streamlines the handoff and preserves design intent through to production.
 
+👥 Project Roles and Responsibilities
+A successful software project relies on clearly defined roles and collaborative teamwork. Below is an outline of the key roles in this project and their responsibilities:
+
+🗂️ Project Manager (PM)
+Responsibilities:
+
+Define project scope, timelines, and deliverables.
+
+Facilitate communication across all team members.
+
+Monitor progress and mitigate risks.
+
+Ensure the team meets milestones and deadlines.
+
+Contribution to Success: Keeps the project on track, resolves blockers early, and aligns the team with project goals.
+
+💻 Frontend Developers
+Responsibilities:
+
+Build UI components using React, TypeScript, and Tailwind CSS.
+
+Ensure responsive, accessible, and performant interfaces.
+
+Integrate frontend with backend APIs.
+
+Collaborate closely with designers for pixel-perfect implementations.
+
+Contribution to Success: They bring the user interface to life, ensuring a seamless and intuitive user experience.
+
+🔧 Backend Developers
+Responsibilities:
+
+Develop server-side logic using Django and Python.
+
+Manage the database using MySQL.
+
+Build and maintain RESTful APIs.
+
+Implement data validation, authentication, and security protocols.
+
+Contribution to Success: They handle the core logic and data processing, ensuring reliable and scalable functionality behind the scenes.
+
+🎨 Designers
+Responsibilities:
+
+Create wireframes, mockups, and high-fidelity UI in Figma.
+
+Define visual hierarchy, color schemes, and typography.
+
+Conduct usability testing and apply feedback iteratively.
+
+Collaborate with frontend developers for consistent UI.
+
+Contribution to Success: They ensure the product is not only functional but also visually appealing and user-friendly.
+
+🧪 QA/Testers
+Responsibilities:
+
+Design and execute manual and automated test cases.
+
+Detect and report bugs early in the development process.
+
+Perform regression testing after bug fixes.
+
+Ensure application quality meets user requirements.
+
+Contribution to Success: They uphold the integrity and reliability of the product by catching issues before they reach users.
+
+🚀 DevOps Engineers
+Responsibilities:
+
+Automate deployment pipelines (CI/CD).
+
+Manage cloud environments and hosting infrastructure.
+
+Monitor system performance and uptime.
+
+Ensure security and compliance of production environments.
+
+Contribution to Success: They ensure fast, reliable, and secure delivery of updates and features to users.
+
+📋 Product Owner (PO)
+Responsibilities:
+
+Define the product vision and user needs.
+
+Prioritize features and manage the product backlog.
+
+Bridge communication between stakeholders and developers.
+
+Accept or reject deliverables based on requirements.
+
+Contribution to Success: They make sure the product solves real user problems and aligns with business goals.
+
+🏅 Scrum Master
+Responsibilities:
+
+Facilitate Agile ceremonies (standups, sprints, retrospectives).
+
+Remove impediments to team productivity.
+
+Foster a collaborative and self-organizing team environment.
+
+Promote Agile principles and continuous improvement.
+
+Contribution to Success: They help the team stay focused, efficient, and continuously improving throughout development.
+
 
 
 ## 💻 Tech Stack
