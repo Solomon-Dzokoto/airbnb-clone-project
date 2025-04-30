@@ -210,6 +210,17 @@ Promote Agile principles and continuous improvement.
 
 Contribution to Success: They help the team stay focused, efficient, and continuously improving throughout development.
 
+🧩 UI Component Patterns
+This project will follow a component-based architecture to ensure maintainability, scalability, and consistency across the Airbnb Clone interface. Below are the initial core UI components planned for development:
+
+🔧 Planned Components
+
+Component	Description
+Navbar	A top-level navigation bar that includes the Airbnb logo, search functionality, user profile menu, and responsive behavior for mobile devices.
+Property Card	Displays a summary view of each property, including an image, price, location, and rating. It will be used in the Property Listing View.
+Footer	The global footer containing links to support pages, terms, privacy policy, language and currency selectors, and social media icons.
+These components will serve as the foundation for the app’s interface and will be developed using React, styled with Tailwind CSS, and structured in a modular way to ensure reusability and testability.
+
 
 
 ## 💻 Tech Stack
