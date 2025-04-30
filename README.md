@@ -62,6 +62,48 @@ In a booking system, user-friendly design is not optional — it's essential. Fr
 A thoughtful UI/UX is the foundation of a successful digital product — and especially vital in a platform where discoverability, clarity, and flow determine the user’s decision to book or bounce.
 
 
+🎨 Figma Design Properties
+🖍️ Color Styles
+Below are the primary color styles used in the Figma mockup:
+
+Primary Color: #FF5A5F (used for CTA buttons and highlights)
+
+Secondary Color: #484848 (text and icons)
+
+Background Color: #FFFFFF (main background)
+
+Accent Color: #00A699 (used for pricing and tags)
+
+Border/Divider: #E0E0E0 (used for separating sections)
+
+✍️ Typography
+
+Property	Value
+Font Family	Inter, sans-serif
+Font Weights	Regular (400), Medium (500), Bold (700)
+Font Sizes	12px, 14px, 16px, 20px, 24px, 32px
+Headings typically use larger font sizes (20px–32px) with bold weight.
+
+Body text uses 14px–16px with regular or medium weight.
+
+Captions/labels may use 12px with a lighter color or secondary font weight.
+
+🧠 Why Design Properties Matter
+Understanding the design properties of a Figma mockup—like color palette and typography—is essential for translating visual designs into consistent, maintainable frontend code. Here's why:
+
+🎯 Consistency: Design tokens (e.g., colors and fonts) form a shared language between designers and developers, reducing guesswork and misalignment.
+
+🎨 Visual Hierarchy: Font size and weight guide the user's eye and define the importance of content. Skipping this undermines the UX.
+
+🔁 Reusability: When color and typography are defined in tokens or CSS variables, it simplifies updates and scaling.
+
+📐 Pixel-perfect implementation: By adhering to defined design properties, developers ensure fidelity to the original vision.
+
+🧪 Testability: Clear design specs make it easier for QA and designers to validate the implementation visually.
+
+Design isn't just how it looks — it's how it works. Identifying these specs early streamlines the handoff and preserves design intent through to production.
+
+
 
 ## 💻 Tech Stack
 
